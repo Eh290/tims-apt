@@ -1,0 +1,22 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: apt.kmckim.com
+Label: apt.kmckim.com
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Date: Fri, 16 Oct 2026 18:59:02 UTC
+SHA256:
+ d6ba448017a007ae7a83ba70198e6ad5db534c03c3a7bb07a38c58a69cba5fdd              660 main/binary-amd64/Packages
+ 5e3f9a9a2116c1fe79f76431e771813b38bacbabda0364bac4f2c5af895fda68              444 main/binary-amd64/Packages.gz
+ 360cb0b27a388751600377691bdc1a11ef02813bdc59e04fe3d525bb8b2654f5              660 main/binary-arm64/Packages
+ 7ab40158007d4710502528c0c43ca3535b3e718f8c212a61a6e518a3b1959231              444 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSmPE43NXSD6bL6WU/vhXgUhwt0nQUCatJz9gAKCRDvhXgUhwt0
+nUH8AP9G2nFcQTFD8lrFdCsbXNhB8fVDBNk5C0/yVCUQHoryAwD8DCVqtnDCAoBS
+urj1mnRWTBTcPRDf4l5Q5ubSOXkRswk=
+=3gym
+-----END PGP SIGNATURE-----
