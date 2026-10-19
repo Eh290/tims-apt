@@ -14,3 +14,19 @@ Filename: pool/tims_0.1.0~rc.1_arm64.deb
 Size: 2079842
 SHA256: 84f21b8140f12f4e100f94d5a825f807c68711133c2d701a1522d8808a818a86
 
+Package: tims
+Version: 0.1.0~rc.2
+Architecture: arm64
+Maintainer: Keegan McKim <keegan@turple.com>
+Section: admin
+Priority: optional
+Depends: docker.io | docker-ce, docker-compose-v2 | docker-compose-plugin, ca-certificates
+Homepage: https://github.com/Eh290/T.I.M.S
+Description: T.I.M.S server setup and updates
+ Sets up a T.I.M.S central server with Docker Compose (sudo tims init) and
+ keeps it up to date with a backup before every change (sudo tims update).
+ Upgrading this package does not change the running server version.
+Filename: pool/tims_0.1.0~rc.2_arm64.deb
+Size: 2080074
+SHA256: 04f5b1022e0a092e9df328a266422961dcc3fea75a234920a942fb7a6a99a033
+
